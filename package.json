@@ -1,0 +1,15 @@
+{
+  "name": "pocket-to-notion",
+  "version": "1.0.0",
+  "description": "Convert a Pocket or Instapaper export into a CSV that Notion imports as a database, plus a Markdown link list. Runs in the browser; nothing is uploaded.",
+  "license": "MIT",
+  "author": "binbuilds",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["pocket", "notion", "instapaper", "csv", "import", "converter"]
+}
